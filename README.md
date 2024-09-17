@@ -3,7 +3,6 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title> Wojciech Bednarek </title>
 </head>
 <body>
 <p align="left"> <font color="red" size="7" face="Arial"> Wojciech </font> </p> <h6> Bednarek </h6> <br>
